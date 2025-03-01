@@ -1,0 +1,14 @@
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\bin\Release\net6.0\ICWA assessment program.exe
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\bin\Release\net6.0\ICWA assessment program.deps.json
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\bin\Release\net6.0\ICWA assessment program.runtimeconfig.json
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\bin\Release\net6.0\ICWA assessment program.dll
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\bin\Release\net6.0\ICWA assessment program.pdb
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\obj\Release\net6.0\ICWA assessment program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\obj\Release\net6.0\ICWA assessment program.AssemblyInfoInputs.cache
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\obj\Release\net6.0\ICWA assessment program.AssemblyInfo.cs
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\obj\Release\net6.0\ICWA assessment program.csproj.CoreCompileInputs.cache
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\obj\Release\net6.0\ICWA assessment program.dll
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\obj\Release\net6.0\refint\ICWA assessment program.dll
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\obj\Release\net6.0\ICWA assessment program.pdb
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\obj\Release\net6.0\ICWA assessment program.genruntimeconfig.cache
+C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\obj\Release\net6.0\ref\ICWA assessment program.dll

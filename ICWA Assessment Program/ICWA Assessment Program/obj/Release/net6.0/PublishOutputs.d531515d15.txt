@@ -1,0 +1,5 @@
+C:\Users\thefi\Desktop\ICWA Assessment App\ICWA assessment program.exe
+C:\Users\thefi\Desktop\ICWA Assessment App\ICWA assessment program.dll
+C:\Users\thefi\Desktop\ICWA Assessment App\ICWA assessment program.deps.json
+C:\Users\thefi\Desktop\ICWA Assessment App\ICWA assessment program.runtimeconfig.json
+C:\Users\thefi\Desktop\ICWA Assessment App\ICWA assessment program.pdb

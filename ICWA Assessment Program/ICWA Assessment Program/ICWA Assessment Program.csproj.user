@@ -3,4 +3,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <DeployTargetInstanceId />
   </PropertyGroup>
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\thefi\Documents\PROGRAMMING YEAR 3\ICWA Assessment Program\ICWA assessment program\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
 </Project>
